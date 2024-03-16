@@ -1,5 +1,4 @@
 import requests
-import json
 
 CLIENT_ID = "8972d6fff6634b039fadd96d3b5bb42d"
 CLIENT_SECRET = "ed708dbf70ae4af585e206040125a1e6"
